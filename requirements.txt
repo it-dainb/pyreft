@@ -8,7 +8,7 @@ pyarrow==14.0.2
 pyvene @ git+https://github.com/it-dainb/pyvene.git
 transformers==4.42.4
 huggingface-hub==0.23.5
-numpy==1.25.2
+numpy>=1.24.3
 accelerate==0.32.1
 sentencepiece==0.2.0
 evaluate==0.4.2
