@@ -8,7 +8,7 @@ transformers>=4.42.3
 protobuf>=3.20.0
 huggingface-hub
 numpy>=1.26.4
-accelerate>=0.29.1
+accelerate==0.32.1
 sentencepiece>=0.1.96
 evaluate>=0.4.1
 datasets>=2.18.0
