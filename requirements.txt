@@ -4,8 +4,6 @@ torch>=2.0.0
 pyvene>=0.1.2
 transformers>=4.42.3
 protobuf>=3.20.0
-matplotlib>=3.7.4
-plotnine>=0.12.4
 huggingface-hub==0.23.0
 numpy>=1.26.4
 accelerate>=0.29.1
