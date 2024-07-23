@@ -1,3 +1,4 @@
+torch>=2.0.0
 triton>=2.0.0
 datasets==2.19.2
 pyarrow>=15.0.0
