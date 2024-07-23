@@ -1,4 +1,4 @@
-torch==2.3.0
+torch>=2.0.0
 torchaudio==2.3.0
 triton==2.3.0
 datasets==2.19.2
