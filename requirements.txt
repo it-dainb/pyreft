@@ -1,6 +1,6 @@
 torch>=2.0.0
-torchaudio==2.3.0
-triton==2.3.0
+torchaudio>=2.3.0
+triton>=2.0.0
 datasets==2.19.2
 pyarrow==14.0.2
 # Removed flash-attn for now.
